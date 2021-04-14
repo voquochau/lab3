@@ -3,12 +3,15 @@
   <PropertyGroup>
     <UseIISExpress>true</UseIISExpress>
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
+<<<<<<< HEAD
     <Use64BitIISExpress />
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
+=======
+>>>>>>> d8ffdaf541503ac2126fec15de9e030065c1da4d
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
